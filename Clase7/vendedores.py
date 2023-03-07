@@ -24,4 +24,4 @@ dataframe_vendedor['index'] += 1
 
 ##Rename columname
 dataframe_vendedor = dataframe_vendedor.rename(columns={'index':'id_producto'})
-print(dataframe_vendedor)
+""" print(dataframe_vendedor) """
